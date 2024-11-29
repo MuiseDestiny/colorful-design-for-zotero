@@ -245,6 +245,18 @@ You can switch between the nested tags view provided by the plugin and the tags 
 
 <summary>Demonstration</summary>
 
+For a tag to show up with the plugin it must start with a # and the subcategory must start with a forward slash (/) in the format of:
+
+For example:
+
+"#Catergory/subcategory"
+"#Method/Longitudinal"
+"#Method/cross-sectional"
+
+The plugin also allows tags to show up in Zotero item pane.
+
+Note: You can configure the plugin so the tag doesn't have to start with #. To do this you need to edit the "#Tag" column in the item pane and remove or change the #. 
+
 | Nested Tags | Zotero Tags |
 |--|--|
 |![image](https://user-images.githubusercontent.com/51939531/221401675-fa062110-ab03-4ce8-b528-81f054edf2d1.png)| ![image](https://user-images.githubusercontent.com/51939531/221401658-058cd270-9d7c-4046-adbf-c936f6e7458a.png)|
