@@ -72,7 +72,7 @@ export default class Progress {
       {
         classList: ["container-for-raphael"],
         styles: {
-          width: "100%",
+          width: "80%",
           height: "20px",
           // opacity
         }
